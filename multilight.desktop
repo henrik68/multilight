@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Multi-light
+Comment=Flashlight with blink mode, SOS signal and screen light
+Exec=qmlscene %U qml/Main.qml
+Icon=assets/icon.png
+Terminal=false
+Type=Application
+X-Lomiri-Touch=true

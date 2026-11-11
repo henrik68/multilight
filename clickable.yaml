@@ -1,0 +1,17 @@
+clickable_minimum_required: '8.0.0'
+builder: pure
+framework: ubuntu-sdk-20.04
+kill: qmlscene
+ignore:
+  - clickable.yaml
+  - README.md
+  - po
+  - build
+  - assets/icon.svg
+  - build-click.sh
+  - update-translations.sh
+  - out
+  - build.log
+  - STORE_LISTING.md
+  - .gitignore
+  - .git

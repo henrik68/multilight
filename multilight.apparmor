@@ -1,0 +1,7 @@
+{
+    "policy_groups": [
+        "camera",
+        "keep-display-on"
+    ],
+    "policy_version": 20.04
+}
