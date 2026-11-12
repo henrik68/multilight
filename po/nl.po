@@ -1,0 +1,76 @@
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the multilight.henrik68 package.
+#
+# SPDX-FileCopyrightText: 2026 Heimen Stoffels <vistausss@fastmail.com>
+msgid ""
+msgstr ""
+"Project-Id-Version: multilight.henrik68 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-11 12:57+0200\n"
+"PO-Revision-Date: 2026-11-12 11:02+0100\n"
+"Last-Translator: Heimen Stoffels <vistausss@fastmail.com>\n"
+"Language-Team: Dutch\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 26.08.3\n"
+
+#: qml/Main.qml:138
+msgid ""
+"Multi-light needs access to the camera to switch the flashlight. Allow it in "
+"System Settings, then come back. If it still does not work, restart the "
+"phone."
+msgstr ""
+"Multi-light heeft toegang tot de camera nodig om de zaklamp aan en uit te. zet"
+"ten. Open hiervoor het appbevoegdhedenpaneel in de systeeminstellingen. Als de"
+" app daarna nog niet werkt, herstart dan de telefoon."
+
+#: qml/Main.qml:142
+msgid "Open settings"
+msgstr "Instellingen openen"
+
+#. TRANSLATORS: big on/off button, keep it short
+#: qml/Main.qml:164
+msgid "ON"
+msgstr "AAN"
+
+#: qml/Main.qml:164
+msgid "OFF"
+msgstr "UIT"
+
+#. TRANSLATORS: %1 = blinks per second, shown under ON/OFF
+#: qml/Main.qml:173
+msgid "blink %1/s"
+msgstr "%1/sec. knipperen"
+
+#: qml/Main.qml:188
+msgid "Stop SOS"
+msgstr "SOS-signaal stoppen"
+
+#: qml/Main.qml:188
+msgid "SOS"
+msgstr "SOS"
+
+#: qml/Main.qml:197
+msgid "Screen light"
+msgstr "Schermlamp"
+
+#. TRANSLATORS: %1 = number of blinks per second
+#: qml/Main.qml:212
+msgid "Flashlight blink: %1 per second"
+msgstr "Zaklamp %1 per seconde laten knipperen"
+
+#: qml/Main.qml:213
+msgid "Flashlight blink: off"
+msgstr "Knipperen: uit"
+
+#. TRANSLATORS: slider value when blinking is off
+#: qml/Main.qml:223
+msgid "off"
+msgstr "uit"
+
+#: qml/Main.qml:245
+msgid "Tap to close"
+msgstr "Druk om te sluiten"
