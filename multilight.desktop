@@ -1,6 +1,12 @@
 [Desktop Entry]
 Name=Multi-light
 Comment=Flashlight with blink mode, SOS signal and screen light
+Comment[da]=Lommelygte med blink, SOS-signal og skærmlys
+Comment[de]=Taschenlampe mit Blinkmodus, SOS-Signal und Bildschirmlicht
+Comment[fr]=Lampe torche avec clignotement, signal SOS et lumière d'écran
+Comment[es]=Linterna con modo de parpadeo, señal SOS y luz de pantalla
+Comment[it]=Torcia con lampeggio, segnale SOS e luce dello schermo
+Comment[nl]=Zaklamp met knippermodus, SOS-signaal en schermlicht
 Exec=qmlscene %U qml/Main.qml
 Icon=assets/icon.png
 Terminal=false

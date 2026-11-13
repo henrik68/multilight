@@ -11,5 +11,6 @@ cd "$DST"
 bash update-translations.sh
 clickable build 2>&1 | tee build.log
 mkdir -p "$SRC/out"
-cp -v build/*/app/*.click "$SRC/out/" 2>/dev/null || cp -v $(find build -name '*.click') "$SRC/out/"
+VER=$(python3 -c 'import json;print(json.load(open("manifest.json"))["version"])')
+cp -v $(find build -name "multilight.henrik68_${VER}_*.click") "$SRC/out/"
 echo "Done - .click is in: $SRC/out/"

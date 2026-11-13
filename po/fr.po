@@ -1,0 +1,72 @@
+# French translation of multilight.henrik68. GPL-3.
+msgid ""
+msgstr ""
+"Project-Id-Version: multilight.henrik68\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-13 09:21+0200\n"
+"PO-Revision-Date: 2026-11-13 09:21+0200\n"
+"Last-Translator: Henrik Christiansen\n"
+"Language-Team: French\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: qml/Main.qml:139
+msgid ""
+"Multi-light needs access to the camera to switch the flashlight. Allow it in "
+"System Settings, then come back. If it still does not work, restart the "
+"phone."
+msgstr ""
+"Multi-light a besoin d'accéder à la caméra pour allumer la lampe torche. "
+"Autorisez l'accès dans les Paramètres système, puis revenez. Si cela ne "
+"fonctionne toujours pas, redémarrez le téléphone."
+
+#: qml/Main.qml:143
+msgid "Open settings"
+msgstr "Ouvrir les paramètres"
+
+#. TRANSLATORS: big on/off button, keep it short
+#: qml/Main.qml:165
+msgid "ON"
+msgstr "MARCHE"
+
+#: qml/Main.qml:165
+msgid "OFF"
+msgstr "ARRÊT"
+
+#. TRANSLATORS: %1 = blinks per second, shown under ON/OFF
+#: qml/Main.qml:174
+msgid "blink %1/s"
+msgstr "clignote %1/s"
+
+#: qml/Main.qml:189
+msgid "Stop SOS"
+msgstr "Arrêter SOS"
+
+#: qml/Main.qml:189
+msgid "SOS"
+msgstr "SOS"
+
+#: qml/Main.qml:198
+msgid "Screen light"
+msgstr "Lumière d'écran"
+
+#. TRANSLATORS: %1 = number of blinks per second
+#: qml/Main.qml:213
+msgid "Flashlight blink: %1 per second"
+msgstr "Clignotement de la lampe : %1 par seconde"
+
+#: qml/Main.qml:214
+msgid "Flashlight blink: off"
+msgstr "Clignotement de la lampe : désactivé"
+
+#. TRANSLATORS: slider value when blinking is off
+#: qml/Main.qml:224
+msgid "off"
+msgstr "désactivé"
+
+#: qml/Main.qml:246
+msgid "Tap to close"
+msgstr "Touchez pour fermer"

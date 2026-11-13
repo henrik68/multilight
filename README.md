@@ -11,7 +11,7 @@ Flashlight app for [Ubuntu Touch](https://ubports.com) with blink mode, SOS sign
 The light is switched through the camera ("video light" flash mode, QtMultimedia), so the app only
 needs the `camera` and `keep-display-on` permissions. No pictures or video are taken.
 
-Languages: English, Danish. Translations are welcome (see below).
+Languages: English, Danish, German, French, Spanish, Italian, Dutch. Corrections and new translations are welcome (see below).
 
 ## Build
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: multilight.henrik68 1.0.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-11 12:57+0200\n"
+"POT-Creation-Date: 2026-11-13 09:21+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,57 +17,57 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: qml/Main.qml:138
+#: qml/Main.qml:139
 msgid ""
 "Multi-light needs access to the camera to switch the flashlight. Allow it in "
 "System Settings, then come back. If it still does not work, restart the "
 "phone."
 msgstr ""
 
-#: qml/Main.qml:142
+#: qml/Main.qml:143
 msgid "Open settings"
 msgstr ""
 
 #. TRANSLATORS: big on/off button, keep it short
-#: qml/Main.qml:164
+#: qml/Main.qml:165
 msgid "ON"
 msgstr ""
 
-#: qml/Main.qml:164
+#: qml/Main.qml:165
 msgid "OFF"
 msgstr ""
 
 #. TRANSLATORS: %1 = blinks per second, shown under ON/OFF
-#: qml/Main.qml:173
+#: qml/Main.qml:174
 msgid "blink %1/s"
 msgstr ""
 
-#: qml/Main.qml:188
+#: qml/Main.qml:189
 msgid "Stop SOS"
 msgstr ""
 
-#: qml/Main.qml:188
+#: qml/Main.qml:189
 msgid "SOS"
 msgstr ""
 
-#: qml/Main.qml:197
+#: qml/Main.qml:198
 msgid "Screen light"
 msgstr ""
 
 #. TRANSLATORS: %1 = number of blinks per second
-#: qml/Main.qml:212
+#: qml/Main.qml:213
 msgid "Flashlight blink: %1 per second"
 msgstr ""
 
-#: qml/Main.qml:213
+#: qml/Main.qml:214
 msgid "Flashlight blink: off"
 msgstr ""
 
 #. TRANSLATORS: slider value when blinking is off
-#: qml/Main.qml:223
+#: qml/Main.qml:224
 msgid "off"
 msgstr ""
 
-#: qml/Main.qml:245
+#: qml/Main.qml:246
 msgid "Tap to close"
 msgstr ""

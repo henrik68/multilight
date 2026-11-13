@@ -2,7 +2,7 @@
     "name": "multilight.henrik68",
     "title": "Multi-light",
     "description": "Flashlight with blink mode, SOS signal and screen light",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "architecture": "all",
     "framework": "ubuntu-sdk-20.04",
     "maintainer": "Henrik Christiansen <henrik.christiansen68@gmail.com>",
